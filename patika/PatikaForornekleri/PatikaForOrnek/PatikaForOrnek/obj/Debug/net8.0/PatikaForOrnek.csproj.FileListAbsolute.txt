@@ -1,0 +1,14 @@
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\obj\Debug\net8.0\PatikaForOrnek.GeneratedMSBuildEditorConfig.editorconfig
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\obj\Debug\net8.0\PatikaForOrnek.AssemblyInfoInputs.cache
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\obj\Debug\net8.0\PatikaForOrnek.AssemblyInfo.cs
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\obj\Debug\net8.0\PatikaForOrnek.csproj.CoreCompileInputs.cache
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\bin\Debug\net8.0\PatikaForOrnek.exe
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\bin\Debug\net8.0\PatikaForOrnek.deps.json
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\bin\Debug\net8.0\PatikaForOrnek.runtimeconfig.json
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\bin\Debug\net8.0\PatikaForOrnek.dll
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\bin\Debug\net8.0\PatikaForOrnek.pdb
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\obj\Debug\net8.0\PatikaForOrnek.dll
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\obj\Debug\net8.0\refint\PatikaForOrnek.dll
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\obj\Debug\net8.0\PatikaForOrnek.pdb
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\obj\Debug\net8.0\PatikaForOrnek.genruntimeconfig.cache
+D:\patika projeler\PatikaForOrnek\PatikaForOrnek\obj\Debug\net8.0\ref\PatikaForOrnek.dll
