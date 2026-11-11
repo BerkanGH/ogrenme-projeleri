@@ -1,0 +1,14 @@
+D:\7.hafta\patikafy\patikafy\bin\Debug\net8.0\patikafy.exe
+D:\7.hafta\patikafy\patikafy\bin\Debug\net8.0\patikafy.deps.json
+D:\7.hafta\patikafy\patikafy\bin\Debug\net8.0\patikafy.runtimeconfig.json
+D:\7.hafta\patikafy\patikafy\bin\Debug\net8.0\patikafy.dll
+D:\7.hafta\patikafy\patikafy\bin\Debug\net8.0\patikafy.pdb
+D:\7.hafta\patikafy\patikafy\obj\Debug\net8.0\patikafy.GeneratedMSBuildEditorConfig.editorconfig
+D:\7.hafta\patikafy\patikafy\obj\Debug\net8.0\patikafy.AssemblyInfoInputs.cache
+D:\7.hafta\patikafy\patikafy\obj\Debug\net8.0\patikafy.AssemblyInfo.cs
+D:\7.hafta\patikafy\patikafy\obj\Debug\net8.0\patikafy.csproj.CoreCompileInputs.cache
+D:\7.hafta\patikafy\patikafy\obj\Debug\net8.0\patikafy.dll
+D:\7.hafta\patikafy\patikafy\obj\Debug\net8.0\refint\patikafy.dll
+D:\7.hafta\patikafy\patikafy\obj\Debug\net8.0\patikafy.pdb
+D:\7.hafta\patikafy\patikafy\obj\Debug\net8.0\patikafy.genruntimeconfig.cache
+D:\7.hafta\patikafy\patikafy\obj\Debug\net8.0\ref\patikafy.dll

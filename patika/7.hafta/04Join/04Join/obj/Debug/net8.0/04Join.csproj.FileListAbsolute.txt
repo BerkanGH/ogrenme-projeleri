@@ -1,0 +1,14 @@
+D:\7.hafta\04Join\04Join\bin\Debug\net8.0\04Join.exe
+D:\7.hafta\04Join\04Join\bin\Debug\net8.0\04Join.deps.json
+D:\7.hafta\04Join\04Join\bin\Debug\net8.0\04Join.runtimeconfig.json
+D:\7.hafta\04Join\04Join\bin\Debug\net8.0\04Join.dll
+D:\7.hafta\04Join\04Join\bin\Debug\net8.0\04Join.pdb
+D:\7.hafta\04Join\04Join\obj\Debug\net8.0\04Join.GeneratedMSBuildEditorConfig.editorconfig
+D:\7.hafta\04Join\04Join\obj\Debug\net8.0\04Join.AssemblyInfoInputs.cache
+D:\7.hafta\04Join\04Join\obj\Debug\net8.0\04Join.AssemblyInfo.cs
+D:\7.hafta\04Join\04Join\obj\Debug\net8.0\04Join.csproj.CoreCompileInputs.cache
+D:\7.hafta\04Join\04Join\obj\Debug\net8.0\04Join.dll
+D:\7.hafta\04Join\04Join\obj\Debug\net8.0\refint\04Join.dll
+D:\7.hafta\04Join\04Join\obj\Debug\net8.0\04Join.pdb
+D:\7.hafta\04Join\04Join\obj\Debug\net8.0\04Join.genruntimeconfig.cache
+D:\7.hafta\04Join\04Join\obj\Debug\net8.0\ref\04Join.dll

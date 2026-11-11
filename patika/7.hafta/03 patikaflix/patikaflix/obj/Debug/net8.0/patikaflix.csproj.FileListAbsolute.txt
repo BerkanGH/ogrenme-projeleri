@@ -1,0 +1,14 @@
+D:\7.hafta\patikaflix\patikaflix\bin\Debug\net8.0\patikaflix.exe
+D:\7.hafta\patikaflix\patikaflix\bin\Debug\net8.0\patikaflix.deps.json
+D:\7.hafta\patikaflix\patikaflix\bin\Debug\net8.0\patikaflix.runtimeconfig.json
+D:\7.hafta\patikaflix\patikaflix\bin\Debug\net8.0\patikaflix.dll
+D:\7.hafta\patikaflix\patikaflix\bin\Debug\net8.0\patikaflix.pdb
+D:\7.hafta\patikaflix\patikaflix\obj\Debug\net8.0\patikaflix.GeneratedMSBuildEditorConfig.editorconfig
+D:\7.hafta\patikaflix\patikaflix\obj\Debug\net8.0\patikaflix.AssemblyInfoInputs.cache
+D:\7.hafta\patikaflix\patikaflix\obj\Debug\net8.0\patikaflix.AssemblyInfo.cs
+D:\7.hafta\patikaflix\patikaflix\obj\Debug\net8.0\patikaflix.csproj.CoreCompileInputs.cache
+D:\7.hafta\patikaflix\patikaflix\obj\Debug\net8.0\patikaflix.dll
+D:\7.hafta\patikaflix\patikaflix\obj\Debug\net8.0\refint\patikaflix.dll
+D:\7.hafta\patikaflix\patikaflix\obj\Debug\net8.0\patikaflix.pdb
+D:\7.hafta\patikaflix\patikaflix\obj\Debug\net8.0\patikaflix.genruntimeconfig.cache
+D:\7.hafta\patikaflix\patikaflix\obj\Debug\net8.0\ref\patikaflix.dll

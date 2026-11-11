@@ -1,0 +1,14 @@
+D:\7.hafta\Linqsorgu\Linqsorgu\bin\Debug\net8.0\Linqsorgu.exe
+D:\7.hafta\Linqsorgu\Linqsorgu\bin\Debug\net8.0\Linqsorgu.deps.json
+D:\7.hafta\Linqsorgu\Linqsorgu\bin\Debug\net8.0\Linqsorgu.runtimeconfig.json
+D:\7.hafta\Linqsorgu\Linqsorgu\bin\Debug\net8.0\Linqsorgu.dll
+D:\7.hafta\Linqsorgu\Linqsorgu\bin\Debug\net8.0\Linqsorgu.pdb
+D:\7.hafta\Linqsorgu\Linqsorgu\obj\Debug\net8.0\Linqsorgu.GeneratedMSBuildEditorConfig.editorconfig
+D:\7.hafta\Linqsorgu\Linqsorgu\obj\Debug\net8.0\Linqsorgu.AssemblyInfoInputs.cache
+D:\7.hafta\Linqsorgu\Linqsorgu\obj\Debug\net8.0\Linqsorgu.AssemblyInfo.cs
+D:\7.hafta\Linqsorgu\Linqsorgu\obj\Debug\net8.0\Linqsorgu.csproj.CoreCompileInputs.cache
+D:\7.hafta\Linqsorgu\Linqsorgu\obj\Debug\net8.0\Linqsorgu.dll
+D:\7.hafta\Linqsorgu\Linqsorgu\obj\Debug\net8.0\refint\Linqsorgu.dll
+D:\7.hafta\Linqsorgu\Linqsorgu\obj\Debug\net8.0\Linqsorgu.pdb
+D:\7.hafta\Linqsorgu\Linqsorgu\obj\Debug\net8.0\Linqsorgu.genruntimeconfig.cache
+D:\7.hafta\Linqsorgu\Linqsorgu\obj\Debug\net8.0\ref\Linqsorgu.dll
