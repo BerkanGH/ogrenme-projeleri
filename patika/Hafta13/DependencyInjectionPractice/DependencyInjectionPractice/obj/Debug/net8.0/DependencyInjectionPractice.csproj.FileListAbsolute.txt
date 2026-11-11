@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\bin\Debug\net8.0\DependencyInjectionPractice.exe
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\bin\Debug\net8.0\DependencyInjectionPractice.deps.json
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\bin\Debug\net8.0\DependencyInjectionPractice.runtimeconfig.json
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\bin\Debug\net8.0\DependencyInjectionPractice.dll
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\bin\Debug\net8.0\DependencyInjectionPractice.pdb
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\net8.0\DependencyInjectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\net8.0\DependencyInjectionPractice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\net8.0\DependencyInjectionPractice.AssemblyInfo.cs
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\net8.0\DependencyInjectionPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\net8.0\DependencyInjectionPractice.dll
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\net8.0\refint\DependencyInjectionPractice.dll
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\net8.0\DependencyInjectionPractice.pdb
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\net8.0\DependencyInjectionPractice.genruntimeconfig.cache
+C:\Users\User\Desktop\hafta13\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\net8.0\ref\DependencyInjectionPractice.dll
