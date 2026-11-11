@@ -1,0 +1,14 @@
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\bin\Debug\net8.0\KimMilyonerOlmakİster.exe
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\bin\Debug\net8.0\KimMilyonerOlmakİster.deps.json
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\bin\Debug\net8.0\KimMilyonerOlmakİster.runtimeconfig.json
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\bin\Debug\net8.0\KimMilyonerOlmakİster.dll
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\bin\Debug\net8.0\KimMilyonerOlmakİster.pdb
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\obj\Debug\net8.0\KimMilyonerOlmakİster.GeneratedMSBuildEditorConfig.editorconfig
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\obj\Debug\net8.0\KimMilyonerOlmakİster.AssemblyInfoInputs.cache
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\obj\Debug\net8.0\KimMilyonerOlmakİster.AssemblyInfo.cs
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\obj\Debug\net8.0\KimMilyonerOlmakİster.csproj.CoreCompileInputs.cache
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\obj\Debug\net8.0\KimMilyonerOlmakİster.dll
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\obj\Debug\net8.0\refint\KimMilyonerOlmakİster.dll
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\obj\Debug\net8.0\KimMilyonerOlmakİster.pdb
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\obj\Debug\net8.0\KimMilyonerOlmakİster.genruntimeconfig.cache
+D:\patika projeler\KimMilyonerOlmakİster\KimMilyonerOlmakİster\obj\Debug\net8.0\ref\KimMilyonerOlmakİster.dll

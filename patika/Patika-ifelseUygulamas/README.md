@@ -1,0 +1,1 @@
+İf else kullanarak istenilen ödevi yaptım. Kullanıcıya 2 hak verdim ve her yanlış cevabında 1 azalttım. Eğer 2 kere yanlış yaparsa eleniyor. İlk 2 soruyu direkt cevaplarsa üçüncü soruyu görmeden kazanıyor.
