@@ -1,0 +1,15 @@
+D:\örnekprojeson\BookingApp\BookingApp.Business\bin\Debug\net8.0\BookingApp.Business.deps.json
+D:\örnekprojeson\BookingApp\BookingApp.Business\bin\Debug\net8.0\BookingApp.Business.dll
+D:\örnekprojeson\BookingApp\BookingApp.Business\bin\Debug\net8.0\BookingApp.Business.pdb
+D:\örnekprojeson\BookingApp\BookingApp.Business\bin\Debug\net8.0\BookingApp.Data.dll
+D:\örnekprojeson\BookingApp\BookingApp.Business\bin\Debug\net8.0\BookingApp.Data.pdb
+D:\örnekprojeson\BookingApp\BookingApp.Business\obj\Debug\net8.0\BookingApp.Business.csproj.AssemblyReference.cache
+D:\örnekprojeson\BookingApp\BookingApp.Business\obj\Debug\net8.0\BookingApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\örnekprojeson\BookingApp\BookingApp.Business\obj\Debug\net8.0\BookingApp.Business.AssemblyInfoInputs.cache
+D:\örnekprojeson\BookingApp\BookingApp.Business\obj\Debug\net8.0\BookingApp.Business.AssemblyInfo.cs
+D:\örnekprojeson\BookingApp\BookingApp.Business\obj\Debug\net8.0\BookingApp.Business.csproj.CoreCompileInputs.cache
+D:\örnekprojeson\BookingApp\BookingApp.Business\obj\Debug\net8.0\BookingA.F4329B34.Up2Date
+D:\örnekprojeson\BookingApp\BookingApp.Business\obj\Debug\net8.0\BookingApp.Business.dll
+D:\örnekprojeson\BookingApp\BookingApp.Business\obj\Debug\net8.0\refint\BookingApp.Business.dll
+D:\örnekprojeson\BookingApp\BookingApp.Business\obj\Debug\net8.0\BookingApp.Business.pdb
+D:\örnekprojeson\BookingApp\BookingApp.Business\obj\Debug\net8.0\ref\BookingApp.Business.dll
