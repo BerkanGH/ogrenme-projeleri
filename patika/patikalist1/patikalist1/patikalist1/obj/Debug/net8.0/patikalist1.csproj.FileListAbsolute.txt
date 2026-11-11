@@ -1,0 +1,14 @@
+D:\5.hafta\patikalist1\patikalist1\bin\Debug\net8.0\patikalist1.exe
+D:\5.hafta\patikalist1\patikalist1\bin\Debug\net8.0\patikalist1.deps.json
+D:\5.hafta\patikalist1\patikalist1\bin\Debug\net8.0\patikalist1.runtimeconfig.json
+D:\5.hafta\patikalist1\patikalist1\bin\Debug\net8.0\patikalist1.dll
+D:\5.hafta\patikalist1\patikalist1\bin\Debug\net8.0\patikalist1.pdb
+D:\5.hafta\patikalist1\patikalist1\obj\Debug\net8.0\patikalist1.GeneratedMSBuildEditorConfig.editorconfig
+D:\5.hafta\patikalist1\patikalist1\obj\Debug\net8.0\patikalist1.AssemblyInfoInputs.cache
+D:\5.hafta\patikalist1\patikalist1\obj\Debug\net8.0\patikalist1.AssemblyInfo.cs
+D:\5.hafta\patikalist1\patikalist1\obj\Debug\net8.0\patikalist1.csproj.CoreCompileInputs.cache
+D:\5.hafta\patikalist1\patikalist1\obj\Debug\net8.0\patikalist1.dll
+D:\5.hafta\patikalist1\patikalist1\obj\Debug\net8.0\refint\patikalist1.dll
+D:\5.hafta\patikalist1\patikalist1\obj\Debug\net8.0\patikalist1.pdb
+D:\5.hafta\patikalist1\patikalist1\obj\Debug\net8.0\patikalist1.genruntimeconfig.cache
+D:\5.hafta\patikalist1\patikalist1\obj\Debug\net8.0\ref\patikalist1.dll
