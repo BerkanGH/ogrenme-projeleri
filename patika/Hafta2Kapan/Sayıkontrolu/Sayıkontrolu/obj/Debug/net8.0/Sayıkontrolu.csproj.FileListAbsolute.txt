@@ -1,0 +1,14 @@
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\bin\Debug\net8.0\Sayıkontrolu.exe
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\bin\Debug\net8.0\Sayıkontrolu.deps.json
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\bin\Debug\net8.0\Sayıkontrolu.runtimeconfig.json
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\bin\Debug\net8.0\Sayıkontrolu.dll
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\bin\Debug\net8.0\Sayıkontrolu.pdb
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\obj\Debug\net8.0\Sayıkontrolu.GeneratedMSBuildEditorConfig.editorconfig
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\obj\Debug\net8.0\Sayıkontrolu.AssemblyInfoInputs.cache
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\obj\Debug\net8.0\Sayıkontrolu.AssemblyInfo.cs
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\obj\Debug\net8.0\Sayıkontrolu.csproj.CoreCompileInputs.cache
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\obj\Debug\net8.0\Sayıkontrolu.dll
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\obj\Debug\net8.0\refint\Sayıkontrolu.dll
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\obj\Debug\net8.0\Sayıkontrolu.pdb
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\obj\Debug\net8.0\Sayıkontrolu.genruntimeconfig.cache
+D:\patika projeler\Sayıkontrolu\Sayıkontrolu\obj\Debug\net8.0\ref\Sayıkontrolu.dll

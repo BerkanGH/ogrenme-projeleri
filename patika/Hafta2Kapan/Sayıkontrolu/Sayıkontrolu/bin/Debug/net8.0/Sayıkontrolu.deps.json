@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sayıkontrolu/1.0.0": {
+        "runtime": {
+          "Sayıkontrolu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sayıkontrolu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
