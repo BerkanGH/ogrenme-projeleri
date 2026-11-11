@@ -1,0 +1,14 @@
+D:\4. hafta patika\PatikaEncap\PatikaEncap\bin\Debug\net8.0\PatikaEncap.exe
+D:\4. hafta patika\PatikaEncap\PatikaEncap\bin\Debug\net8.0\PatikaEncap.deps.json
+D:\4. hafta patika\PatikaEncap\PatikaEncap\bin\Debug\net8.0\PatikaEncap.runtimeconfig.json
+D:\4. hafta patika\PatikaEncap\PatikaEncap\bin\Debug\net8.0\PatikaEncap.dll
+D:\4. hafta patika\PatikaEncap\PatikaEncap\bin\Debug\net8.0\PatikaEncap.pdb
+D:\4. hafta patika\PatikaEncap\PatikaEncap\obj\Debug\net8.0\PatikaEncap.GeneratedMSBuildEditorConfig.editorconfig
+D:\4. hafta patika\PatikaEncap\PatikaEncap\obj\Debug\net8.0\PatikaEncap.AssemblyInfoInputs.cache
+D:\4. hafta patika\PatikaEncap\PatikaEncap\obj\Debug\net8.0\PatikaEncap.AssemblyInfo.cs
+D:\4. hafta patika\PatikaEncap\PatikaEncap\obj\Debug\net8.0\PatikaEncap.csproj.CoreCompileInputs.cache
+D:\4. hafta patika\PatikaEncap\PatikaEncap\obj\Debug\net8.0\PatikaEncap.dll
+D:\4. hafta patika\PatikaEncap\PatikaEncap\obj\Debug\net8.0\refint\PatikaEncap.dll
+D:\4. hafta patika\PatikaEncap\PatikaEncap\obj\Debug\net8.0\PatikaEncap.pdb
+D:\4. hafta patika\PatikaEncap\PatikaEncap\obj\Debug\net8.0\PatikaEncap.genruntimeconfig.cache
+D:\4. hafta patika\PatikaEncap\PatikaEncap\obj\Debug\net8.0\ref\PatikaEncap.dll
