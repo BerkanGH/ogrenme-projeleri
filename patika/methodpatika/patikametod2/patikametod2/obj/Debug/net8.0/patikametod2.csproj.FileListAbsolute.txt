@@ -1,0 +1,14 @@
+D:\patika2.haftaornek\patikametod2\patikametod2\bin\Debug\net8.0\patikametod2.exe
+D:\patika2.haftaornek\patikametod2\patikametod2\bin\Debug\net8.0\patikametod2.deps.json
+D:\patika2.haftaornek\patikametod2\patikametod2\bin\Debug\net8.0\patikametod2.runtimeconfig.json
+D:\patika2.haftaornek\patikametod2\patikametod2\bin\Debug\net8.0\patikametod2.dll
+D:\patika2.haftaornek\patikametod2\patikametod2\bin\Debug\net8.0\patikametod2.pdb
+D:\patika2.haftaornek\patikametod2\patikametod2\obj\Debug\net8.0\patikametod2.GeneratedMSBuildEditorConfig.editorconfig
+D:\patika2.haftaornek\patikametod2\patikametod2\obj\Debug\net8.0\patikametod2.AssemblyInfoInputs.cache
+D:\patika2.haftaornek\patikametod2\patikametod2\obj\Debug\net8.0\patikametod2.AssemblyInfo.cs
+D:\patika2.haftaornek\patikametod2\patikametod2\obj\Debug\net8.0\patikametod2.csproj.CoreCompileInputs.cache
+D:\patika2.haftaornek\patikametod2\patikametod2\obj\Debug\net8.0\patikametod2.dll
+D:\patika2.haftaornek\patikametod2\patikametod2\obj\Debug\net8.0\refint\patikametod2.dll
+D:\patika2.haftaornek\patikametod2\patikametod2\obj\Debug\net8.0\patikametod2.pdb
+D:\patika2.haftaornek\patikametod2\patikametod2\obj\Debug\net8.0\patikametod2.genruntimeconfig.cache
+D:\patika2.haftaornek\patikametod2\patikametod2\obj\Debug\net8.0\ref\patikametod2.dll
