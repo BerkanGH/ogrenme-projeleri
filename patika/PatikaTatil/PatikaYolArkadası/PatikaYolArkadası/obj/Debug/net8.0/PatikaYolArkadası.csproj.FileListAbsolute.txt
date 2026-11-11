@@ -1,0 +1,14 @@
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\bin\Debug\net8.0\PatikaYolArkadası.exe
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\bin\Debug\net8.0\PatikaYolArkadası.deps.json
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\bin\Debug\net8.0\PatikaYolArkadası.runtimeconfig.json
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\bin\Debug\net8.0\PatikaYolArkadası.dll
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\bin\Debug\net8.0\PatikaYolArkadası.pdb
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\obj\Debug\net8.0\PatikaYolArkadası.GeneratedMSBuildEditorConfig.editorconfig
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\obj\Debug\net8.0\PatikaYolArkadası.AssemblyInfoInputs.cache
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\obj\Debug\net8.0\PatikaYolArkadası.AssemblyInfo.cs
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\obj\Debug\net8.0\PatikaYolArkadası.csproj.CoreCompileInputs.cache
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\obj\Debug\net8.0\PatikaYolArkadası.dll
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\obj\Debug\net8.0\refint\PatikaYolArkadası.dll
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\obj\Debug\net8.0\PatikaYolArkadası.pdb
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\obj\Debug\net8.0\PatikaYolArkadası.genruntimeconfig.cache
+D:\patika projeler\PatikaYolArkadası\PatikaYolArkadası\obj\Debug\net8.0\ref\PatikaYolArkadası.dll
