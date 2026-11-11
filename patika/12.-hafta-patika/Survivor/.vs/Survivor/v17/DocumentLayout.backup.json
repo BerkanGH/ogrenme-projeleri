@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hafta12\\Survivor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|d:\\hafta12\\survivor\\survivor\\controllers\\competitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|solutionrelative:survivor\\controllers\\competitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|d:\\hafta12\\survivor\\survivor\\migrations\\competitorcategorycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|solutionrelative:survivor\\migrations\\competitorcategorycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|d:\\hafta12\\survivor\\survivor\\migrations\\20241225025258_\u0131k\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|solutionrelative:survivor\\migrations\\20241225025258_\u0131k\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|d:\\hafta12\\survivor\\survivor\\migrations\\20241224024537_\u0131lk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|solutionrelative:survivor\\migrations\\20241224024537_\u0131lk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|d:\\hafta12\\survivor\\survivor\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|solutionrelative:survivor\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|d:\\hafta12\\survivor\\survivor\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|solutionrelative:survivor\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|d:\\hafta12\\survivor\\survivor\\models\\competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|solutionrelative:survivor\\models\\competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|d:\\hafta12\\survivor\\survivor\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|solutionrelative:survivor\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|d:\\hafta12\\survivor\\survivor\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|solutionrelative:survivor\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|d:\\hafta12\\survivor\\survivor\\context\\competitorcategorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|solutionrelative:survivor\\context\\competitorcategorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|d:\\hafta12\\survivor\\survivor\\survivor.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C2946B19-EFEE-401A-A67C-51C4BEC3926D}|Survivor\\Survivor.csproj|solutionrelative:survivor\\survivor.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompetitorCategoryContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\hafta12\\Survivor\\Survivor\\Migrations\\CompetitorCategoryContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Survivor\\Migrations\\CompetitorCategoryContextModelSnapshot.cs",
+              "ToolTip": "D:\\hafta12\\Survivor\\Survivor\\Migrations\\CompetitorCategoryContextModelSnapshot.cs",
+              "RelativeToolTip": "Survivor\\Migrations\\CompetitorCategoryContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:55:02.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241224024537_\u0131lk.cs",
+              "DocumentMoniker": "D:\\hafta12\\Survivor\\Survivor\\Migrations\\20241224024537_\u0131lk.cs",
+              "RelativeDocumentMoniker": "Survivor\\Migrations\\20241224024537_\u0131lk.cs",
+              "ToolTip": "D:\\hafta12\\Survivor\\Survivor\\Migrations\\20241224024537_\u0131lk.cs",
+              "RelativeToolTip": "Survivor\\Migrations\\20241224024537_\u0131lk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:53:27.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241225025258_\u0131k\u0131.cs",
+              "DocumentMoniker": "D:\\hafta12\\Survivor\\Survivor\\Migrations\\20241225025258_\u0131k\u0131.cs",
+              "RelativeDocumentMoniker": "Survivor\\Migrations\\20241225025258_\u0131k\u0131.cs",
+              "ToolTip": "D:\\hafta12\\Survivor\\Survivor\\Migrations\\20241225025258_\u0131k\u0131.cs",
+              "RelativeToolTip": "Survivor\\Migrations\\20241225025258_\u0131k\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:52:59.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\hafta12\\Survivor\\Survivor\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Survivor\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\hafta12\\Survivor\\Survivor\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Survivor\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:51:46.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Competitor.cs",
+              "DocumentMoniker": "D:\\hafta12\\Survivor\\Survivor\\Models\\Competitor.cs",
+              "RelativeDocumentMoniker": "Survivor\\Models\\Competitor.cs",
+              "ToolTip": "D:\\hafta12\\Survivor\\Survivor\\Models\\Competitor.cs",
+              "RelativeToolTip": "Survivor\\Models\\Competitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:51:30.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\hafta12\\Survivor\\Survivor\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Survivor\\Models\\Category.cs",
+              "ToolTip": "D:\\hafta12\\Survivor\\Survivor\\Models\\Category.cs",
+              "RelativeToolTip": "Survivor\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:51:28.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\hafta12\\Survivor\\Survivor\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Survivor\\Models\\BaseModel.cs",
+              "ToolTip": "D:\\hafta12\\Survivor\\Survivor\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Survivor\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:45:09.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\hafta12\\Survivor\\Survivor\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Survivor\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\hafta12\\Survivor\\Survivor\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Survivor\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:51:16.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompetitorController.cs",
+              "DocumentMoniker": "D:\\hafta12\\Survivor\\Survivor\\Controllers\\CompetitorController.cs",
+              "RelativeDocumentMoniker": "Survivor\\Controllers\\CompetitorController.cs",
+              "ToolTip": "D:\\hafta12\\Survivor\\Survivor\\Controllers\\CompetitorController.cs",
+              "RelativeToolTip": "Survivor\\Controllers\\CompetitorController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:39:08.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompetitorCategoryContext.cs",
+              "DocumentMoniker": "D:\\hafta12\\Survivor\\Survivor\\Context\\CompetitorCategoryContext.cs",
+              "RelativeDocumentMoniker": "Survivor\\Context\\CompetitorCategoryContext.cs",
+              "ToolTip": "D:\\hafta12\\Survivor\\Survivor\\Context\\CompetitorCategoryContext.cs",
+              "RelativeToolTip": "Survivor\\Context\\CompetitorCategoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:38:17.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Survivor.http",
+              "DocumentMoniker": "D:\\hafta12\\Survivor\\Survivor\\Survivor.http",
+              "RelativeDocumentMoniker": "Survivor\\Survivor.http",
+              "ToolTip": "D:\\hafta12\\Survivor\\Survivor\\Survivor.http",
+              "RelativeToolTip": "Survivor\\Survivor.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-24T03:12:34.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
