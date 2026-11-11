@@ -1,0 +1,1 @@
+kod satırlarında açıklama yaptım

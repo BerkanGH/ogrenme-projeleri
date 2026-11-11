@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\abstrack4\\abstrack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{041C2FF4-9332-476C-AA5A-E295A70D259D}|abstrack\\abstrack.csproj|d:\\abstrack4\\abstrack\\abstrack\\salesrepresentative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041C2FF4-9332-476C-AA5A-E295A70D259D}|abstrack\\abstrack.csproj|solutionrelative:abstrack\\salesrepresentative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041C2FF4-9332-476C-AA5A-E295A70D259D}|abstrack\\abstrack.csproj|d:\\abstrack4\\abstrack\\abstrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041C2FF4-9332-476C-AA5A-E295A70D259D}|abstrack\\abstrack.csproj|solutionrelative:abstrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041C2FF4-9332-476C-AA5A-E295A70D259D}|abstrack\\abstrack.csproj|d:\\abstrack4\\abstrack\\abstrack\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041C2FF4-9332-476C-AA5A-E295A70D259D}|abstrack\\abstrack.csproj|solutionrelative:abstrack\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041C2FF4-9332-476C-AA5A-E295A70D259D}|abstrack\\abstrack.csproj|d:\\abstrack4\\abstrack\\abstrack\\softwaredeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041C2FF4-9332-476C-AA5A-E295A70D259D}|abstrack\\abstrack.csproj|solutionrelative:abstrack\\softwaredeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041C2FF4-9332-476C-AA5A-E295A70D259D}|abstrack\\abstrack.csproj|d:\\abstrack4\\abstrack\\abstrack\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041C2FF4-9332-476C-AA5A-E295A70D259D}|abstrack\\abstrack.csproj|solutionrelative:abstrack\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesRepresentative.cs",
+              "DocumentMoniker": "D:\\abstrack4\\abstrack\\abstrack\\SalesRepresentative.cs",
+              "RelativeDocumentMoniker": "abstrack\\SalesRepresentative.cs",
+              "ToolTip": "D:\\abstrack4\\abstrack\\abstrack\\SalesRepresentative.cs",
+              "RelativeToolTip": "abstrack\\SalesRepresentative.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:46:35.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectManager.cs",
+              "DocumentMoniker": "D:\\abstrack4\\abstrack\\abstrack\\ProjectManager.cs",
+              "RelativeDocumentMoniker": "abstrack\\ProjectManager.cs",
+              "ToolTip": "D:\\abstrack4\\abstrack\\abstrack\\ProjectManager.cs",
+              "RelativeToolTip": "abstrack\\ProjectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:46:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoftwareDeveloper.cs",
+              "DocumentMoniker": "D:\\abstrack4\\abstrack\\abstrack\\SoftwareDeveloper.cs",
+              "RelativeDocumentMoniker": "abstrack\\SoftwareDeveloper.cs",
+              "ToolTip": "D:\\abstrack4\\abstrack\\abstrack\\SoftwareDeveloper.cs",
+              "RelativeToolTip": "abstrack\\SoftwareDeveloper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:45:43.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\abstrack4\\abstrack\\abstrack\\Employee.cs",
+              "RelativeDocumentMoniker": "abstrack\\Employee.cs",
+              "ToolTip": "D:\\abstrack4\\abstrack\\abstrack\\Employee.cs",
+              "RelativeToolTip": "abstrack\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:45:10.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\abstrack4\\abstrack\\abstrack\\Program.cs",
+              "RelativeDocumentMoniker": "abstrack\\Program.cs",
+              "ToolTip": "D:\\abstrack4\\abstrack\\abstrack\\Program.cs",
+              "RelativeToolTip": "abstrack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:42:58.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

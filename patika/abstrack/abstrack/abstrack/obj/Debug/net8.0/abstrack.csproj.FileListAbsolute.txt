@@ -1,0 +1,14 @@
+D:\abstrack4\abstrack\abstrack\bin\Debug\net8.0\abstrack.exe
+D:\abstrack4\abstrack\abstrack\bin\Debug\net8.0\abstrack.deps.json
+D:\abstrack4\abstrack\abstrack\bin\Debug\net8.0\abstrack.runtimeconfig.json
+D:\abstrack4\abstrack\abstrack\bin\Debug\net8.0\abstrack.dll
+D:\abstrack4\abstrack\abstrack\bin\Debug\net8.0\abstrack.pdb
+D:\abstrack4\abstrack\abstrack\obj\Debug\net8.0\abstrack.GeneratedMSBuildEditorConfig.editorconfig
+D:\abstrack4\abstrack\abstrack\obj\Debug\net8.0\abstrack.AssemblyInfoInputs.cache
+D:\abstrack4\abstrack\abstrack\obj\Debug\net8.0\abstrack.AssemblyInfo.cs
+D:\abstrack4\abstrack\abstrack\obj\Debug\net8.0\abstrack.csproj.CoreCompileInputs.cache
+D:\abstrack4\abstrack\abstrack\obj\Debug\net8.0\abstrack.dll
+D:\abstrack4\abstrack\abstrack\obj\Debug\net8.0\refint\abstrack.dll
+D:\abstrack4\abstrack\abstrack\obj\Debug\net8.0\abstrack.pdb
+D:\abstrack4\abstrack\abstrack\obj\Debug\net8.0\abstrack.genruntimeconfig.cache
+D:\abstrack4\abstrack\abstrack\obj\Debug\net8.0\ref\abstrack.dll
