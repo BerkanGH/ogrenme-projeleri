@@ -1,0 +1,14 @@
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\bin\Debug\net8.0\SwitchCaseUygulaması.exe
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\bin\Debug\net8.0\SwitchCaseUygulaması.deps.json
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\bin\Debug\net8.0\SwitchCaseUygulaması.runtimeconfig.json
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\bin\Debug\net8.0\SwitchCaseUygulaması.dll
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\bin\Debug\net8.0\SwitchCaseUygulaması.pdb
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\obj\Debug\net8.0\SwitchCaseUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\obj\Debug\net8.0\SwitchCaseUygulaması.AssemblyInfoInputs.cache
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\obj\Debug\net8.0\SwitchCaseUygulaması.AssemblyInfo.cs
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\obj\Debug\net8.0\SwitchCaseUygulaması.csproj.CoreCompileInputs.cache
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\obj\Debug\net8.0\SwitchCaseUygulaması.dll
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\obj\Debug\net8.0\refint\SwitchCaseUygulaması.dll
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\obj\Debug\net8.0\SwitchCaseUygulaması.pdb
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\obj\Debug\net8.0\SwitchCaseUygulaması.genruntimeconfig.cache
+D:\patika projeler\SwitchCaseUygulaması\SwitchCaseUygulaması\obj\Debug\net8.0\ref\SwitchCaseUygulaması.dll
