@@ -1,0 +1,14 @@
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\bin\Debug\net8.0\PatikaInheritance.exe
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\bin\Debug\net8.0\PatikaInheritance.deps.json
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\bin\Debug\net8.0\PatikaInheritance.runtimeconfig.json
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\bin\Debug\net8.0\PatikaInheritance.dll
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\bin\Debug\net8.0\PatikaInheritance.pdb
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\obj\Debug\net8.0\PatikaInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\obj\Debug\net8.0\PatikaInheritance.AssemblyInfoInputs.cache
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\obj\Debug\net8.0\PatikaInheritance.AssemblyInfo.cs
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\obj\Debug\net8.0\PatikaInheritance.csproj.CoreCompileInputs.cache
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\obj\Debug\net8.0\PatikaInheritance.dll
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\obj\Debug\net8.0\refint\PatikaInheritance.dll
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\obj\Debug\net8.0\PatikaInheritance.pdb
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\obj\Debug\net8.0\PatikaInheritance.genruntimeconfig.cache
+D:\4. hafta patika\PatikaInheritance\PatikaInheritance\obj\Debug\net8.0\ref\PatikaInheritance.dll

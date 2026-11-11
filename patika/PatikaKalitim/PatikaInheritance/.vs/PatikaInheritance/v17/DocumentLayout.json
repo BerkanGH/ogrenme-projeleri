@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4. hafta patika\\PatikaInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB87AC03-F350-4574-9268-E74A8DE0BD02}|PatikaInheritance\\PatikaInheritance.csproj|d:\\4. hafta patika\\patikainheritance\\patikainheritance\\basekisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB87AC03-F350-4574-9268-E74A8DE0BD02}|PatikaInheritance\\PatikaInheritance.csproj|solutionrelative:patikainheritance\\basekisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB87AC03-F350-4574-9268-E74A8DE0BD02}|PatikaInheritance\\PatikaInheritance.csproj|d:\\4. hafta patika\\patikainheritance\\patikainheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB87AC03-F350-4574-9268-E74A8DE0BD02}|PatikaInheritance\\PatikaInheritance.csproj|solutionrelative:patikainheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseKisi.cs",
+              "DocumentMoniker": "D:\\4. hafta patika\\PatikaInheritance\\PatikaInheritance\\BaseKisi.cs",
+              "RelativeDocumentMoniker": "PatikaInheritance\\BaseKisi.cs",
+              "ToolTip": "D:\\4. hafta patika\\PatikaInheritance\\PatikaInheritance\\BaseKisi.cs",
+              "RelativeToolTip": "PatikaInheritance\\BaseKisi.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:36:53.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4. hafta patika\\PatikaInheritance\\PatikaInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "PatikaInheritance\\Program.cs",
+              "ToolTip": "D:\\4. hafta patika\\PatikaInheritance\\PatikaInheritance\\Program.cs",
+              "RelativeToolTip": "PatikaInheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:35:41.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
