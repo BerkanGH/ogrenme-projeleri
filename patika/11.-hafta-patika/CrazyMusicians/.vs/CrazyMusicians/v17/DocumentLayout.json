@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\hafta11\\CrazyMusicians\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23F13686-7BB9-4DAF-B4A8-C415CB5ADA22}|CrazyMusicians\\CrazyMusicians.csproj|c:\\users\\user\\desktop\\hafta11\\crazymusicians\\crazymusicians\\controllers\\musicianscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F13686-7BB9-4DAF-B4A8-C415CB5ADA22}|CrazyMusicians\\CrazyMusicians.csproj|solutionrelative:crazymusicians\\controllers\\musicianscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F13686-7BB9-4DAF-B4A8-C415CB5ADA22}|CrazyMusicians\\CrazyMusicians.csproj|c:\\users\\user\\desktop\\hafta11\\crazymusicians\\crazymusicians\\dto\\newdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F13686-7BB9-4DAF-B4A8-C415CB5ADA22}|CrazyMusicians\\CrazyMusicians.csproj|solutionrelative:crazymusicians\\dto\\newdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F13686-7BB9-4DAF-B4A8-C415CB5ADA22}|CrazyMusicians\\CrazyMusicians.csproj|c:\\users\\user\\desktop\\hafta11\\crazymusicians\\crazymusicians\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F13686-7BB9-4DAF-B4A8-C415CB5ADA22}|CrazyMusicians\\CrazyMusicians.csproj|solutionrelative:crazymusicians\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F13686-7BB9-4DAF-B4A8-C415CB5ADA22}|CrazyMusicians\\CrazyMusicians.csproj|c:\\users\\user\\desktop\\hafta11\\crazymusicians\\crazymusicians\\models\\musician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F13686-7BB9-4DAF-B4A8-C415CB5ADA22}|CrazyMusicians\\CrazyMusicians.csproj|solutionrelative:crazymusicians\\models\\musician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F13686-7BB9-4DAF-B4A8-C415CB5ADA22}|CrazyMusicians\\CrazyMusicians.csproj|c:\\users\\user\\desktop\\hafta11\\crazymusicians\\crazymusicians\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F13686-7BB9-4DAF-B4A8-C415CB5ADA22}|CrazyMusicians\\CrazyMusicians.csproj|solutionrelative:crazymusicians\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta11\\CrazyMusicians\\CrazyMusicians\\Dto\\NewDto.cs",
+              "RelativeDocumentMoniker": "CrazyMusicians\\Dto\\NewDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta11\\CrazyMusicians\\CrazyMusicians\\Dto\\NewDto.cs",
+              "RelativeToolTip": "CrazyMusicians\\Dto\\NewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:54:44.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusiciansController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta11\\CrazyMusicians\\CrazyMusicians\\Controllers\\MusiciansController.cs",
+              "RelativeDocumentMoniker": "CrazyMusicians\\Controllers\\MusiciansController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta11\\CrazyMusicians\\CrazyMusicians\\Controllers\\MusiciansController.cs",
+              "RelativeToolTip": "CrazyMusicians\\Controllers\\MusiciansController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAmwGEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:45:16.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta11\\CrazyMusicians\\CrazyMusicians\\Program.cs",
+              "RelativeDocumentMoniker": "CrazyMusicians\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta11\\CrazyMusicians\\CrazyMusicians\\Program.cs",
+              "RelativeToolTip": "CrazyMusicians\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:42:55.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta11\\CrazyMusicians\\CrazyMusicians\\Models\\Data.cs",
+              "RelativeDocumentMoniker": "CrazyMusicians\\Models\\Data.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta11\\CrazyMusicians\\CrazyMusicians\\Models\\Data.cs",
+              "RelativeToolTip": "CrazyMusicians\\Models\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:24:15.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musician.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta11\\CrazyMusicians\\CrazyMusicians\\Models\\Musician.cs",
+              "RelativeDocumentMoniker": "CrazyMusicians\\Models\\Musician.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta11\\CrazyMusicians\\CrazyMusicians\\Models\\Musician.cs",
+              "RelativeToolTip": "CrazyMusicians\\Models\\Musician.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:24:06.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
