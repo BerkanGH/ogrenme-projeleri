@@ -1,0 +1,14 @@
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\bin\Debug\net8.0\Patikakitapuygulaması.exe
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\bin\Debug\net8.0\Patikakitapuygulaması.deps.json
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\bin\Debug\net8.0\Patikakitapuygulaması.runtimeconfig.json
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\bin\Debug\net8.0\Patikakitapuygulaması.dll
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\bin\Debug\net8.0\Patikakitapuygulaması.pdb
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\obj\Debug\net8.0\Patikakitapuygulaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\obj\Debug\net8.0\Patikakitapuygulaması.AssemblyInfoInputs.cache
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\obj\Debug\net8.0\Patikakitapuygulaması.AssemblyInfo.cs
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\obj\Debug\net8.0\Patikakitapuygulaması.csproj.CoreCompileInputs.cache
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\obj\Debug\net8.0\Patikakitapuygulaması.dll
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\obj\Debug\net8.0\refint\Patikakitapuygulaması.dll
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\obj\Debug\net8.0\Patikakitapuygulaması.pdb
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\obj\Debug\net8.0\Patikakitapuygulaması.genruntimeconfig.cache
+D:\4. hafta patika\Patikakitapuygulaması\Patikakitapuygulaması\obj\Debug\net8.0\ref\Patikakitapuygulaması.dll
