@@ -1,0 +1,14 @@
+D:\5.hafta\patikadiziler\patikadiziler\bin\Debug\net8.0\patikadiziler.exe
+D:\5.hafta\patikadiziler\patikadiziler\bin\Debug\net8.0\patikadiziler.deps.json
+D:\5.hafta\patikadiziler\patikadiziler\bin\Debug\net8.0\patikadiziler.runtimeconfig.json
+D:\5.hafta\patikadiziler\patikadiziler\bin\Debug\net8.0\patikadiziler.dll
+D:\5.hafta\patikadiziler\patikadiziler\bin\Debug\net8.0\patikadiziler.pdb
+D:\5.hafta\patikadiziler\patikadiziler\obj\Debug\net8.0\patikadiziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\5.hafta\patikadiziler\patikadiziler\obj\Debug\net8.0\patikadiziler.AssemblyInfoInputs.cache
+D:\5.hafta\patikadiziler\patikadiziler\obj\Debug\net8.0\patikadiziler.AssemblyInfo.cs
+D:\5.hafta\patikadiziler\patikadiziler\obj\Debug\net8.0\patikadiziler.csproj.CoreCompileInputs.cache
+D:\5.hafta\patikadiziler\patikadiziler\obj\Debug\net8.0\patikadiziler.dll
+D:\5.hafta\patikadiziler\patikadiziler\obj\Debug\net8.0\refint\patikadiziler.dll
+D:\5.hafta\patikadiziler\patikadiziler\obj\Debug\net8.0\patikadiziler.pdb
+D:\5.hafta\patikadiziler\patikadiziler\obj\Debug\net8.0\patikadiziler.genruntimeconfig.cache
+D:\5.hafta\patikadiziler\patikadiziler\obj\Debug\net8.0\ref\patikadiziler.dll
