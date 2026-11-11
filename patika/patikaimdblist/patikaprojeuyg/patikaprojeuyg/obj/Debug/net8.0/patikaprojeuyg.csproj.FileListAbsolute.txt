@@ -1,0 +1,14 @@
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\bin\Debug\net8.0\patikaprojeuyg.exe
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\bin\Debug\net8.0\patikaprojeuyg.deps.json
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\bin\Debug\net8.0\patikaprojeuyg.runtimeconfig.json
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\bin\Debug\net8.0\patikaprojeuyg.dll
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\bin\Debug\net8.0\patikaprojeuyg.pdb
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\obj\Debug\net8.0\patikaprojeuyg.GeneratedMSBuildEditorConfig.editorconfig
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\obj\Debug\net8.0\patikaprojeuyg.AssemblyInfoInputs.cache
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\obj\Debug\net8.0\patikaprojeuyg.AssemblyInfo.cs
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\obj\Debug\net8.0\patikaprojeuyg.csproj.CoreCompileInputs.cache
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\obj\Debug\net8.0\patikaprojeuyg.dll
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\obj\Debug\net8.0\refint\patikaprojeuyg.dll
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\obj\Debug\net8.0\patikaprojeuyg.pdb
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\obj\Debug\net8.0\patikaprojeuyg.genruntimeconfig.cache
+D:\5.hafta\patikaprojeuyg\patikaprojeuyg\obj\Debug\net8.0\ref\patikaprojeuyg.dll

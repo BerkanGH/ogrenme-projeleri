@@ -1,0 +1,1 @@
+Kod satırlarınnda detaylı açıklama yaptım. Filmleri ve puanları kullanıcıdan alıyoruz. Yanlış bir puanlandırma da tekrar girmesini istiyoruz. En sonunda bizden istedikleri kriterlere göre de listeliyoruz.
